@@ -1,0 +1,7 @@
+(fp_lib_table
+  (lib (name "Keebio")(type "KiCad")(uri "${KIPRJMOD}/Keebio-Parts.pretty")(options "")(descr ""))
+  (lib (name "nice!nano")(type "KiCad")(uri "${KIPRJMOD}/nice-nano-kicad-master")(options "")(descr ""))
+  (lib (name "Keyboard Parts")(type "KiCad")(uri "${KIPRJMOD}/keyboard_parts.pretty")(options "")(descr ""))
+  (lib (name "kbd")(type "KiCad")(uri "${KIPRJMOD}/kbd.pretty")(options "")(descr ""))
+  (lib (name "mx footprints")(type "KiCad")(uri "${KIPRJMOD}/MX_Only.pretty")(options "")(descr ""))
+)
