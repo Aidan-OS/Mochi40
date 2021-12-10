@@ -366,7 +366,7 @@
       "netlist": "",
       "specctra_dsn": "",
       "step": "3D Files/PCB.step",
-      "vrml": ""
+      "vrml": "../Blender Files/PCB.wrl"
     },
     "page_layout_descr_file": ""
   },
