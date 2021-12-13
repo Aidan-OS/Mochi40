@@ -1,0 +1,11 @@
+file_format: "1"
+id: fine40rev1
+name: fine!40
+type: shield
+url: https://github.com/Aidan-OS/Mochi40
+requires: [pro_micro]
+exposes: [i2c_oled]
+features:
+  - keys
+  - display
+  - encoder

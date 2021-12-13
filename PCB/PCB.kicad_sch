@@ -1363,7 +1363,7 @@
     (path "/7ab554a0-49c0-4f5a-98b5-ad67f7e62e32/da7cf12c-a7cb-478f-a7c7-e5b19f720ded"
       (reference "D41") (unit 1) (value "D") (footprint "Keebio:Diode-Hybrid-Back")
     )
-    (path "/7ab554a0-49c0-4f5a-98b5-ad67f7e62e32/93763292-42d1-4e6f-ad07-e91243a7d035"
+    (path "/7ab554a0-49c0-4f5a-98b5-ad67f7e62e32/00575740-00a5-4898-a8fd-c760285011ec"
       (reference "D42") (unit 1) (value "D") (footprint "Keebio:Diode-Hybrid-Back")
     )
     (path "/7ab554a0-49c0-4f5a-98b5-ad67f7e62e32/087c7e3c-8666-4230-9dd4-47e54accb105"
@@ -1513,8 +1513,8 @@
     (path "/7ab554a0-49c0-4f5a-98b5-ad67f7e62e32/fd7a27b4-8e3b-4214-94bd-91ac41a34f3c"
       (reference "K41") (unit 1) (value "KEYSW") (footprint "mx footprints:MXOnly-1.25U-NoLED")
     )
-    (path "/7ab554a0-49c0-4f5a-98b5-ad67f7e62e32/a05e1426-28eb-4598-abff-16c93a73f127"
-      (reference "K42") (unit 1) (value "KEYSW") (footprint "mx footprints:MXOnly-2U-ReversedStabilizers-NoLED")
+    (path "/7ab554a0-49c0-4f5a-98b5-ad67f7e62e32/2e406661-1383-4b31-ad2a-3d1ee8309ba9"
+      (reference "K42") (unit 1) (value "KEYSW") (footprint "mx footprints:MXOnly-1.25U-NoLED")
     )
     (path "/7ab554a0-49c0-4f5a-98b5-ad67f7e62e32/af94c226-2b5c-45f4-bd1b-aa4a4223c22d"
       (reference "K43") (unit 1) (value "KEYSW") (footprint "mx footprints:MXOnly-1.25U-NoLED")
