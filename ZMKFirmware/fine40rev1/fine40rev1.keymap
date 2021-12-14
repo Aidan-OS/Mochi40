@@ -7,6 +7,7 @@
 #include <behaviors.dtsi>
 #include <dt-bindings/zmk/keys.h>
 #include <dt-bindings/zmk/bt.h>
+#include <dt-bindings/zmk/ext_power.h>
 
 / {
 	keymap {
@@ -14,10 +15,18 @@
 
 		default_layer {
 				// -----------------------------------------------------------------------------------------
-				// |  TAB  |  Q   |  W   |  E   |  R   |  T   |   Y   |  U    |  I   |  O   |   P   | BSPC  |
-				// |  ESC  |  A   |  S   |  D   |  F   |  G   |   H   |  J    |  K   |  L   |   ;   |  '    |
+				// |  ESC  |  Q   |  W   |  E   |  R   |  T   |   Y   |  U    |  I   |  O   |   P   | BSPC  |
+				// |  TAB  |  A   |  S   |  D   |  F   |  G   |   H   |  J    |  K   |  L   |   ;   |  '    |
 				// | SHIFT |  Z   |  X   |  C   |  V   |  B   |   N   |  M    |  ,   |  .   |   /   |  RET  |
-				// | LCTL  | LGUI | LALT |  \   | LOWR |     SPACE    |  RAIS | LARW | DARW | UARW  |  P/P  |
+				// | LCTL  | LGUI | LALT |  \   | LOWR | SPC  |  RAIS | LARW | DARW | UARW  |  RARW |  P/P  |
+
+				// -----------------------------------------------------------------------------------------
+				// |  ESC  |  Q   |  W   |  E   |  R   |  T   |   B   |  V    |  C   |  X   |   Z   |  LSFT |
+				// |   Y   |  U   |  I   |  O   |  P   | BSPC |  ENT  |  /    |  .   |  ,   |   M   |   N   |
+				// |  TAB  |  A   |  S   |  D   |  F   |  G   |  SPC  |  LOWR |  \   | LALT | LGUI  |  LCTL |
+				// |   H   |  J   |  K   |  L   | SCLN | QUTE |  P/P  | RARW | UARW | DARW  |  LARW | RAISE |
+
+
 			bindings = <
 				&kp ESC   &kp Q    &kp W    &kp E    &kp R &kp T     &kp Y &kp U    &kp I     &kp O    &kp P     &kp BSPC
 				&lt 3 TAB &kp A    &kp S    &kp D    &kp F &kp G     &kp H &kp J    &kp K     &kp L    &kp SEMI  &kp SQT
@@ -45,13 +54,13 @@
 				&trans    &trans &trans &trans &trans &trans &trans &kp HOME  &kp PG_DN &kp PG_UP &kp END  &trans
 			>;
 		};
-		
+
 		control {
 			bindings = <
 				&reset &bootloader &bt BT_CLR &bt BT_PRV &bt BT_NXT &trans  &trans  &trans  &trans  &trans  &trans  &trans
 				&trans &kp F11 	   &kp F12    &kp F13    &kp F14    &kp F15 &kp F16 &kp F17 &kp F18 &kp F19 &kp F20 &trans
 				&trans &kp F1      &kp F2     &kp F3     &kp F4     &kp F5  &kp F6  &kp F7  &kp F8  &kp F9  &kp F10 &trans
-				&trans &trans      &trans     &trans     &trans     &trans  &trans  &trans  &trans  &trans  &trans  &trans
+				&trans &trans      &trans     &trans     &trans     &trans  &trans  &trans  &trans  &trans  &trans  &ext_power EP_ON
 			>;
 		};
 	};

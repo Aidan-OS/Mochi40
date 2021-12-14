@@ -3,6 +3,15 @@ if SHIELD_fine40rev1
 config ZMK_KEYBOARD_NAME
     default "fine!40"
 
-endif
+config I2C
+	default y
 
+config SSD1306
+	default y
+	
+config SSD1306_REVERSE_MODE
+	default y
+
+
+endif
 
