@@ -4,4 +4,5 @@
   (lib (name "Keyboard Parts")(type "KiCad")(uri "${KIPRJMOD}/keyboard_parts.pretty")(options "")(descr ""))
   (lib (name "kbd")(type "KiCad")(uri "${KIPRJMOD}/kbd.pretty")(options "")(descr ""))
   (lib (name "mx footprints")(type "KiCad")(uri "${KIPRJMOD}/MX_Only.pretty")(options "")(descr ""))
+  (lib (name "Logos")(type "KiCad")(uri "${KIPRJMOD}/Logos.pretty")(options "")(descr ""))
 )

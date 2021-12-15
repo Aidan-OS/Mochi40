@@ -20,3 +20,6 @@ fp-info-cache
 # Autorouter files (exported from Pcbnew)
 *.dsn
 *.ses
+
+Gerbers/
+Blender Files/Step Files
