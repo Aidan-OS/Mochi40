@@ -1364,22 +1364,22 @@
       (reference "D41") (unit 1) (value "D") (footprint "Keebio:Diode-Hybrid-Back")
     )
     (path "/28896a62-0172-4b69-b0dd-4e57d9040df5/087c7e3c-8666-4230-9dd4-47e54accb105"
-      (reference "D43") (unit 1) (value "D") (footprint "Keebio:Diode-Hybrid-Back")
+      (reference "D42") (unit 1) (value "D") (footprint "Keebio:Diode-Hybrid-Back")
     )
     (path "/28896a62-0172-4b69-b0dd-4e57d9040df5/33cdaf3f-ddf3-4c1b-bf1a-16c47e278810"
-      (reference "D44") (unit 1) (value "D") (footprint "Keebio:Diode-Hybrid-Back")
+      (reference "D43") (unit 1) (value "D") (footprint "Keebio:Diode-Hybrid-Back")
     )
     (path "/28896a62-0172-4b69-b0dd-4e57d9040df5/298247a5-1021-497f-96ec-7aa882a4ab3c"
-      (reference "D45") (unit 1) (value "D") (footprint "Keebio:Diode-Hybrid-Back")
+      (reference "D44") (unit 1) (value "D") (footprint "Keebio:Diode-Hybrid-Back")
     )
     (path "/28896a62-0172-4b69-b0dd-4e57d9040df5/7b1e94da-517b-40bd-b6c6-7dbabf04ae7a"
-      (reference "D46") (unit 1) (value "D") (footprint "Keebio:Diode-Hybrid-Back")
+      (reference "D45") (unit 1) (value "D") (footprint "Keebio:Diode-Hybrid-Back")
     )
     (path "/28896a62-0172-4b69-b0dd-4e57d9040df5/9206e8fc-0afe-4299-840f-1f6283b59259"
-      (reference "D47") (unit 1) (value "D") (footprint "Keebio:Diode-Hybrid-Back")
+      (reference "D46") (unit 1) (value "D") (footprint "Keebio:Diode-Hybrid-Back")
     )
     (path "/28896a62-0172-4b69-b0dd-4e57d9040df5/ab7cefbd-2074-403c-a870-37d475daa069"
-      (reference "D48") (unit 1) (value "D") (footprint "Keebio:Diode-Hybrid-Back")
+      (reference "D47") (unit 1) (value "D") (footprint "Keebio:Diode-Hybrid-Back")
     )
     (path "/eb3be240-88dd-4591-a4ab-f6dd93a65a96"
       (reference "J1") (unit 1) (value "SSD1306_OLED") (footprint "kbd:OLED_v2")
@@ -1511,19 +1511,19 @@
       (reference "K41") (unit 1) (value "KEYSW") (footprint "mx footprints:MXOnly-1.25U-NoLED")
     )
     (path "/28896a62-0172-4b69-b0dd-4e57d9040df5/af94c226-2b5c-45f4-bd1b-aa4a4223c22d"
-      (reference "K43") (unit 1) (value "KEYSW") (footprint "mx footprints:MXOnly-1.25U-NoLED")
+      (reference "K42") (unit 1) (value "KEYSW") (footprint "mx footprints:MXOnly-1.25U-NoLED")
     )
     (path "/28896a62-0172-4b69-b0dd-4e57d9040df5/acc8aa33-4035-4df2-8ece-3c769072eefb"
-      (reference "K44") (unit 1) (value "KEYSW") (footprint "mx footprints:MXOnly-1U-NoLED")
+      (reference "K43") (unit 1) (value "KEYSW") (footprint "mx footprints:MXOnly-1U-NoLED")
     )
     (path "/28896a62-0172-4b69-b0dd-4e57d9040df5/2648f544-462c-4428-82d4-ff547f7600b5"
-      (reference "K45") (unit 1) (value "KEYSW") (footprint "mx footprints:MXOnly-1U-NoLED")
+      (reference "K44") (unit 1) (value "KEYSW") (footprint "mx footprints:MXOnly-1U-NoLED")
     )
     (path "/28896a62-0172-4b69-b0dd-4e57d9040df5/8cc73906-faf9-44ff-b0ad-0c3adf672591"
-      (reference "K46") (unit 1) (value "KEYSW") (footprint "mx footprints:MXOnly-1U-NoLED")
+      (reference "K45") (unit 1) (value "KEYSW") (footprint "mx footprints:MXOnly-1U-NoLED")
     )
     (path "/28896a62-0172-4b69-b0dd-4e57d9040df5/ea7ce4f6-f696-43fc-8680-9ab1aad4833f"
-      (reference "K47") (unit 1) (value "KEYSW") (footprint "mx footprints:MXOnly-1U-NoLED")
+      (reference "K46") (unit 1) (value "KEYSW") (footprint "mx footprints:MXOnly-1U-NoLED")
     )
     (path "/28896a62-0172-4b69-b0dd-4e57d9040df5/64113b10-88c6-4702-9c4d-8a9647fc6727"
       (reference "SW1") (unit 1) (value "RotaryEncoder_Switch") (footprint "Keebio:RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm")
