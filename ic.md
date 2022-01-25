@@ -28,7 +28,7 @@ How does the Mochi40 differentiate itself from the Whimsy? Well, the title of th
 
 [center][color=purple][size=18pt]Plate Materials [/size][/color]
 
-[size=12pt]Currently I am confident in offering FR4, PC, POM, and aluminum plates. I have done work to find a place which will provide brass plates at a reasonable price, however have been out of luck. Brass is still included on the IC, however unless there is a considerable amount of interest in it (and people are willing to pay a small premium) I will not be offering brass.[/size]
+[size=12pt]Currently I am confident in offering FR4, PC, POM, and aluminum plates. I have done work to find a place which will provide brass plates at a reasonable price, however have been out of luck. Brass is still included on the IC, however unless there is a considerable amount of interest in it (and people are willing to pay a premium) I will not be offering brass.[/size]
 
 [color=purple][size=18pt]PCB & Layout[/size][/color]
 
@@ -49,6 +49,83 @@ Mochi40 Layout Options
 
 I will be offering two different sizes of SSD1306 OLED at the time of the group buy, 128x64 and 32x6, both with white lighting. 
 
-As for firmware, the Elite-C version will function off of QMK, while the nice!nano will function off of ZMK.[/size]
+As for firmware, the Elite-C version will use QMK, while the nice!nano will use ZMK.[/size]
 
+[color=purple][size=18pt]Purchase Options[/size][/color]
+[size=12pt]I really wish I could work out a way to make this less complicated of a breakdown, but I just can't. There will be two core purchasing options, the Mochi40 Kit and the fine!40 PCB.[/size]
+[/center]
+
+[size=12pt]
+                                                                                                                                                                               [u]Mochi40 Kit[/u]
+                                                                                                                                                                               [i]Required Parts[/i]
+                                                                                                                                                                                   1 x Aluminum Case (any colour)
+                                                                                                                                                                                   1 x fine!40 PCB (Soldered or Hotswap)
+                                                                                                                                                                                   1 x Core electronics kit (diodes, rotary encoder, reset button)
+                                                                                                                                                                                   1 x Core mounting kit (screws, 50A Silicone o-rings)
+                                                                                                                                                                                   1 x OLED (128x64, 128x32)
+                                                                                                                                                                                   1 x Microcontroller (Elite-C or nice!nano)
+                                                                                                                                                                                   1 x Acrylic Screen Cover
+
+                                                                                                                                                                               [i]Optional Parts[/i]
+                                                                                                                                                                                   1 x Plate (yes this can be built plateless)
+                                                                                                                                                                                   1 x Plate Foam
+                                                                                                                                                                                   1 x JST battery connector (for nice!nano)
+
+
+                                                                                                                                                                               [u]fine!40 PCB[/u]
+                                                                                                                                                                               [i]Required Parts[/i]
+                                                                                                                                                                                   1 x fine!40 PCB (Soldered or Hotswap)
+                                                                                                                                                                                   1 x Core electronics kit (diodes, rotary encoder, reset button)
+
+                                                                                                                                                                               [i]Optional Parts[/i]
+                                                                                                                                                                                   1 x Microcontroller (Elite-C or nice!nano)
+                                                                                                                                                                                   1 x Core mounting kit (screws, 50A Silicone o-rings)
+                                                                                                                                                                                   1 x OLED (128x64, 128x32)
+                                                                                                                                                                                   1 x Acrylic Screen Cover
+                                                                                                                                                                                   1 x JST Battery connector
+                                                                                                                                                                                   1 x Plastic mounting kit (Threaded inserts for 3D printed cases)
+
+                                                                                                                                                                               [u]Extra Parts for Individual Purchase[/u]
+                                                                                                                                                                                   - All plates
+                                                                                                                                                                                   - Extra Microcontrollers
+                                                                                                                                                                                   - Extra Acrylic Screen Covers
+                                                                                                                                                                                   - Extra OLED Screens
+                                                                                                                                                                                   - Plate Foam
+[/size]
+
+[center]
+[color=purple][size=18pt]Vendors and Pricing[/size][/color]
+[size=12pt]NA: Me (Located in GTA, Canada)
+UK: Protozoa
+EU: CandyKeys
+AUS: Allcaps
+SEA: TBD
+
+Pricing per vendor differs more than just the currency conversion. This is due to the costs associated with vendors. If you are ordering from an area where a vendor sells, you are going to save money on shipping and taxes as a result.
+
+AIDAN INSERT EXCEL CHART HERE TO SHOW PRICES EASILY
+[/size]
+
+[color=purple][size=18pt]My Thanks to the Community[/size][/color]
+[size=12pt]I have a large list of people to say thanks to as a result of the fantastic support that I have gotten from many discords. Heck, I wouldn't be here if it weren't for the OGs on my discord server who have been helping every step of the way with feedback and design input. They pushed me to turn this into a full project instead of just making a Whimsy for myself. Please note that this list of thanks is in absolutely no order:
+
+Bomtarnes from the QMK Discord
+Filterpaper from the QMK Discord
+Drasna from the QMK Discord
+Dan from RingerKeys
+Pete Johanson of ZMK
+BraveKarma of the ZMK Discord
+Maple Computing of the Elite-C Project
+Nick of Nice Keyboards
+Ecto of Protozoa
+MakerJake
+FreshFromTheGrave
+JC of Allcaps
+David of CandyKeys
+Jaspertandy of Fourteen
+Prkns of Fourteen
+Everyone on the AidanSmith.dev Discord
+
+
+[/size]
 [/center]
