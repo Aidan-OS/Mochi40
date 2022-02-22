@@ -1,5 +1,5 @@
 (sym_lib_table
-  (lib (name "keyboard_parts")(type "Legacy")(uri "${KIPRJMOD}/TMK KiCad Files/keyboard_parts.lib")(options "")(descr ""))
-  (lib (name "MKL27")(type "Legacy")(uri "${KIPRJMOD}/TMK KiCad Files/mkl27z256vfm4.lib")(options "")(descr ""))
+  (lib (name "keyboard_parts")(type "Legacy")(uri "${KIPRJMOD}/../kicad_lib_tmk/keyboard_parts.lib")(options "")(descr ""))
+  (lib (name "MKL27")(type "Legacy")(uri "${KIPRJMOD}/../kicad_lib_tmk/mkl27z256vfm4.lib")(options "")(descr ""))
   (lib (name "Custom Symbols")(type "KiCad")(uri "${KIPRJMOD}/Custom Symbols.kicad_sym")(options "")(descr ""))
 )
