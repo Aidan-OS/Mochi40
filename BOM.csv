@@ -1,25 +1,27 @@
 Needed from this repo,,,
 Item,Count,Note,Link
-PCB,1,,https://github.com/Aidan-OS/Whimsy/tree/master/PCB
-Plate,1,,"https://github.com/Aidan-OS/Whimsy/tree/master/Plate	"
-Case,1,,https://github.com/Aidan-OS/Whimsy/tree/master/Case
+PCB,1,,https://github.com/Aidan-OS/Moch40/tree/master/PCB
+Plate,1,,"https://github.com/Aidan-OS/Mochi40/tree/master/Plate	"
+Case,1,,https://github.com/Aidan-OS/Mochi40/tree/main/Case
 ,,,
-Keebio Order,,,
+Mouser Order,,,
 Item,Count,Note,Link
-M2 Standoff (9mm),4,,https://keeb.io/products/m2-screws-and-standoffs
-Reset Swtich,1,,https://keeb.io/products/reset-pushbutton-switch
-1N4148 Diodes - Through Hole,50,,https://keeb.io/products/1n4148-diodes
-EC11 Rotary Encoder,1,,https://keeb.io/products/rotary-encoder-ec11
+Reset Swtich,1,,https://www.mouser.ca/ProductDetail/Apem/MJTP1117?qs=6hR9CYnVCPAeQNDPI%2FtCng%3D%3D&gclid=Cj0KCQiAweaNBhDEARIsAJ5hwbc3mltjIImnaHrv6gXT76eDQC32VToqFVU2tvjCOfbJX4FiKxOiduoaAvzzEALw_wcB
+1N4148 Diodes - Through Hole,60,,https://www.mouser.ca/ProductDetail/onsemi-Fairchild/1N4148TR?qs=i4Fj9T%2FoRm%252BOzV8sfXrhvQ%3D%3D
+EC11 Rotary Encoder,1,,https://www.mouser.ca/ProductDetail/Bourns/PEC11H-4215F-S0024?qs=7MVldsJ5UazXQyTbCLch8g%3D%3D
+,,,
+,,,
+Microcontrollers,,,
+Item,Count,Note,Link
 Elite-C,1,Optional-replace with Nice!Nano,https://keeb.io/products/elite-c-low-profile-version-usb-c-pro-micro-replacement-atmega32u4
-,,,
-Nice Keyboards Order,,,
-Item,Count,Note,Link
 Nice!Nano,1,Optional - Bluteooth Elite-C replacement,https://nicekeyboards.com/nice-nano/
 ,,,
 McMaster-Carr Order,,,
 Item,Count,Note,Link
-M2 3mm Screw,5,,https://www.mcmaster.com/91290A010/
+M2 5mm Screw,4,,https://www.mcmaster.com/91290A012/
 M2 16mm Screw,4,,https://www.mcmaster.com/91290A047/
+Silicone O-Ring,4 to 8,"4 needed, 4 extra optional",https://www.mcmaster.com/1173N004/
+Nuts,4,,https://www.mcmaster.com/90592A004/
 M2 heat set inserts,9,Optional - 3D print only,https://www.mcmaster.com/94459A110/
 ,,,
 Sparkfun Order,,,
@@ -30,3 +32,5 @@ Lithium Ion Battery,1,Optional - Only needed with Nice!Nano,https://www.sparkfun
 OLED options (Available from many places),,,
 Option 1:,SSD1306 OLED 128x32,,
 Option 2:,SSD1306 OLED 128x64,,
+,,,
+"Bumpons are 3/8"" diameter, available from amazon and other places",,,
