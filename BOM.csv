@@ -1,0 +1,32 @@
+Needed from this repo,,,
+Item,Count,Note,Link
+PCB,1,,https://github.com/Aidan-OS/Whimsy/tree/master/PCB
+Plate,1,,"https://github.com/Aidan-OS/Whimsy/tree/master/Plate	"
+Case,1,,https://github.com/Aidan-OS/Whimsy/tree/master/Case
+,,,
+Keebio Order,,,
+Item,Count,Note,Link
+M2 Standoff (9mm),4,,https://keeb.io/products/m2-screws-and-standoffs
+Reset Swtich,1,,https://keeb.io/products/reset-pushbutton-switch
+1N4148 Diodes - Through Hole,50,,https://keeb.io/products/1n4148-diodes
+EC11 Rotary Encoder,1,,https://keeb.io/products/rotary-encoder-ec11
+Elite-C,1,Optional-replace with Nice!Nano,https://keeb.io/products/elite-c-low-profile-version-usb-c-pro-micro-replacement-atmega32u4
+,,,
+Nice Keyboards Order,,,
+Item,Count,Note,Link
+Nice!Nano,1,Optional - Bluteooth Elite-C replacement,https://nicekeyboards.com/nice-nano/
+,,,
+McMaster-Carr Order,,,
+Item,Count,Note,Link
+M2 3mm Screw,5,,https://www.mcmaster.com/91290A010/
+M2 16mm Screw,4,,https://www.mcmaster.com/91290A047/
+M2 heat set inserts,9,Optional - 3D print only,https://www.mcmaster.com/94459A110/
+,,,
+Sparkfun Order,,,
+Item,Count,Note,Link
+JST Connector,1,Optional - Only needed with Nice!Nano,https://www.sparkfun.com/products/9749
+Lithium Ion Battery,1,Optional - Only needed with Nice!Nano,https://www.sparkfun.com/products/18286
+,,,
+OLED options (Available from many places),,,
+Option 1:,SSD1306 OLED 128x32,,
+Option 2:,SSD1306 OLED 128x64,,
