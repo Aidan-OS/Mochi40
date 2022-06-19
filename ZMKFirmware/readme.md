@@ -1,0 +1,1 @@
+Please for the following repo in order to build your own ZMK layout: [zmk-config](https://github.com/Aidan-OS/zmk-config)
