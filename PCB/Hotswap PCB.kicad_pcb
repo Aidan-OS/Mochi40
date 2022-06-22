@@ -759,7 +759,7 @@
   (footprint "Keyboard Parts:PKRH" (layer "F.Cu")
     (tedit 61AD29BF) (tstamp 2858fa8d-369c-4b98-aa41-30302fb4d8ec)
     (at 249.4 117.1)
-    (fp_text reference "Mnt" (at 0 -3 unlocked) (layer "F.SilkS")
+    (fp_text reference "Mnt" (at 0 -3 unlocked) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp d86c125f-5fc9-424a-8e0e-16673c5a4bf6)
     )
@@ -2947,7 +2947,7 @@
   (footprint "Keyboard Parts:PKRH" (layer "F.Cu")
     (tedit 61AD18DA) (tstamp 8490fb8a-5ad3-4825-8eec-4bf56649e02b)
     (at 248.8 79)
-    (fp_text reference "Mnt" (at 0 -3.1 unlocked) (layer "F.SilkS")
+    (fp_text reference "Mnt" (at 0 -3.1 unlocked) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 7cf0e3e6-472d-47fd-ac31-444206ee5518)
     )
@@ -4065,7 +4065,7 @@
   (footprint "Keyboard Parts:PKRH" (layer "F.Cu")
     (tedit 61AD1C26) (tstamp b918e2d5-9df2-429a-90f6-413e1e8d48f9)
     (at 18.8 79.1)
-    (fp_text reference "Mnt" (at -0.5 -3.2 unlocked) (layer "F.SilkS")
+    (fp_text reference "Mnt" (at -0.5 -3.2 unlocked) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 0fed8ec3-08e9-4cdc-a6ed-7d1ab72a2a29)
     )
@@ -9569,7 +9569,7 @@
   (footprint "Keyboard Parts:PKRH" (layer "F.Cu")
     (tedit 61AD1660) (tstamp d8706066-3bb7-434e-94e1-479a40a5d7b3)
     (at 18.8 117.1)
-    (fp_text reference "Mnt" (at 0 -3.3 unlocked) (layer "F.SilkS")
+    (fp_text reference "Mnt" (at 0 -3.3 unlocked) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp e83e84d2-5cb1-4d35-96c1-e6f2e661594b)
     )
